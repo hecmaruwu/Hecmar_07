@@ -1,7 +1,7 @@
 # Hecmar_07
 Repositorio personal
 <div align="center">
-    <img src='banner.png' style="border-radius: 15px">
+    <img src='matrix.png' style="border-radius: 15px">
 </div>
 <br>
 
