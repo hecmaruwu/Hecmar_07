@@ -16,7 +16,7 @@ I am a master candidate in computer science at the university of chile passionat
     <a href="https://www.linkedin.com/in/ignacio-alejandro-meza-de-la-jara-4b0360134/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="mailto:imezadelajara@gmail.com">
+    <a href="mailto:hecmar.taucare.reyes@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
     <a href="cv_ignacio.pdf">
