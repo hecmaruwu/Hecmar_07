@@ -36,9 +36,6 @@ I am a master candidate in computer science at the university of chile passionat
 <br>
 <br>
 
-<div align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=mezosky&count_private=true&show_icons=true&custom_title=Github&theme=chartreuse-dark&bg_color=0,000000,130F40&layout=compact&border_radius=8">
-</div>
 
 <br>
 <br>
