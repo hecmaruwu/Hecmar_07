@@ -30,11 +30,8 @@ I am a master candidate in computer science at the university of chile passionat
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-- 💙 My main interests are Machine Learning, Natural Language Processing and MLOps. I really enjoy reading about this area, if you have a book to recommend, I welcome it!
-- 🏫 I am a candidate for a master's degree in computer science at the [University of Chile ](https://www.dcc.uchile.cl/). My thesis deals with multimodal topics and my guiding teacher is  [Felipe Bravo-Márquez](https://felipebravom.com/).
-- 🧑‍🎓 I'm a member of the [RELELA](https://relela.com/) (Representations for Learning and Language ) research group of the University of Chile.
-- 📹 I have been a part-time lecturer at the University of Chile. Check out the course material [here](https://github.com/pbadillatorrealba/MDS7202).
-- 🕹️ I'm very geeky and I like anime, video games and manga. If you like you can find me on Overwatch as Mezosky.
+- 💙 
+- 🏫 
 
 <br>
 <br>
@@ -71,19 +68,11 @@ Enviroments, Containers, Deploy, CI, etc.
 
 ![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=flat-square&logo=anaconda&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/fastapi-109989?style=flat-square&logo=FASTAPI&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
 ![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-Cloud
-
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-
 Others
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![vscode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 ![jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white)
