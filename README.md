@@ -30,8 +30,10 @@ I am a master candidate in computer science at the university of chile passionat
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-- 💙 
-- 🏫 
+- Me gusta tocar instrumentos como la guitarra, bajo y ukelele💙 
+- En mis tiempos libres salgo a trotar🏫
+- Leo comics y mangas, además de ver anime y series médicas.
+- La playa es uno de mis lugares favoritos, junto al sur de Chile. 
 
 <br>
 <br>
